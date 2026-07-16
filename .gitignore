@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Next.js / Vercel
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# CAD runtime outputs
+tmp/
+temp/
+.cache/
+uploads/
+outputs/
+services/worker/.work/
+services/worker/.venv/
+*.dwg
+*.dxf
+!samples/**/*.dxf
+!services/worker/tests/fixtures/**/*.dxf
+
+# Large / sensitive local copies (keep glossary policy explicit)
+data/local/
+samples/private/
+
+# Logs & coverage
+logs/
+*.log
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ODA / tooling
+ODAFileConverter/
+*.tmp

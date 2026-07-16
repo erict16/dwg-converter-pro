@@ -1,0 +1,21 @@
+# Self-hosted LibreTranslate (machine-translation fallback)
+# Glossary always wins; this service only translates residual Chinese.
+#
+# Start:
+#   cd services/libretranslate
+#   docker compose up -d
+#
+# API: http://localhost:5000
+# Docs: https://github.com/LibreTranslate/LibreTranslate
+
+services:
+  libretranslate:
+    image: libretranslate/libretranslate:latest
+    container_name: dwg-libretranslate
+    ports:
+      - "5000:5000"
+    environment:
+      - LT_LOAD_ONLY=en,zh
+      - LT_UPDATE_MODELS=false
+    restart: unless-stopped
+    # First pull downloads language models — can take several minutes.

@@ -1,0 +1,1972 @@
+{
+  "version": 1,
+  "source": "semantic-glossary.xlsx",
+  "count": 393,
+  "entries": [
+    {
+      "zh": "真空泡",
+      "en": "vacuum interrupter (VI)",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器",
+      "en": "tap selector",
+      "note": ""
+    },
+    {
+      "zh": "切换开关",
+      "en": "diverter switch",
+      "note": ""
+    },
+    {
+      "zh": "选择开关",
+      "en": "selector switch",
+      "note": ""
+    },
+    {
+      "zh": "线性调",
+      "en": "Linear regulation",
+      "note": ""
+    },
+    {
+      "zh": "反向转换选择器",
+      "en": "reversing change-over selector",
+      "note": ""
+    },
+    {
+      "zh": "粗调选择器",
+      "en": "coarse change-over selector",
+      "note": ""
+    },
+    {
+      "zh": "细调选择器",
+      "en": "fine change-over selector",
+      "note": ""
+    },
+    {
+      "zh": "平衡绕组",
+      "en": "equalizer winding",
+      "note": ""
+    },
+    {
+      "zh": "限流自耦变压器(电抗开关匹配的电抗器）",
+      "en": "preventive autotransformer",
+      "note": ""
+    },
+    {
+      "zh": "主触头",
+      "en": "shunt contact",
+      "note": ""
+    },
+    {
+      "zh": "主通断触头",
+      "en": "main switching contact",
+      "note": ""
+    },
+    {
+      "zh": "转换触头（电抗式）",
+      "en": "transfer contact",
+      "note": ""
+    },
+    {
+      "zh": "并联触头",
+      "en": "by-pass contact/shunt contact",
+      "note": ""
+    },
+    {
+      "zh": "开断电流",
+      "en": "switched current",
+      "note": ""
+    },
+    {
+      "zh": "工频电压",
+      "en": "power-frequency voltage/ AC voltage test",
+      "note": ""
+    },
+    {
+      "zh": "固有分接位置数",
+      "en": "number of inherent tap positions",
+      "note": ""
+    },
+    {
+      "zh": "工作分接位置数",
+      "en": "number of service tap positions",
+      "note": ""
+    },
+    {
+      "zh": "型式试验",
+      "en": "type test",
+      "note": ""
+    },
+    {
+      "zh": "例行试验",
+      "en": "routine test",
+      "note": ""
+    },
+    {
+      "zh": "逐级控制",
+      "en": "step-by-step control",
+      "note": ""
+    },
+    {
+      "zh": "分接位置指示器",
+      "en": "tap position indicator",
+      "note": ""
+    },
+    {
+      "zh": "限位开关",
+      "en": "limit switch",
+      "note": ""
+    },
+    {
+      "zh": "机械端位止动装置",
+      "en": "mechanical end stop",
+      "note": ""
+    },
+    {
+      "zh": "电源电压",
+      "en": "power supply voltage",
+      "note": ""
+    },
+    {
+      "zh": "过渡阻抗",
+      "en": "transition impedance",
+      "note": ""
+    },
+    {
+      "zh": "触头温升测试",
+      "en": "temperature rise of contacts",
+      "note": ""
+    },
+    {
+      "zh": "切换测试",
+      "en": "switching test",
+      "note": ""
+    },
+    {
+      "zh": "短路电流测试",
+      "en": "short-circuit current test",
+      "note": ""
+    },
+    {
+      "zh": "过渡阻抗测试",
+      "en": "transition impedance test",
+      "note": ""
+    },
+    {
+      "zh": "机械测试",
+      "en": "mechanical test",
+      "note": ""
+    },
+    {
+      "zh": "密封性测试",
+      "en": "tightness test",
+      "note": ""
+    },
+    {
+      "zh": "绝缘测试",
+      "en": "dielectric test",
+      "note": ""
+    },
+    {
+      "zh": "切换芯子",
+      "en": "diverter switch insert",
+      "note": ""
+    },
+    {
+      "zh": "高压检测和诊断系统",
+      "en": "high-voltage testing and diagnostic system",
+      "note": ""
+    },
+    {
+      "zh": "断路器",
+      "en": "circuit breaker",
+      "note": ""
+    },
+    {
+      "zh": "外挂式",
+      "en": "compartment type",
+      "note": ""
+    },
+    {
+      "zh": "内置式",
+      "en": "in-tank type",
+      "note": ""
+    },
+    {
+      "zh": "精密溶模铸法",
+      "en": "precision investment casting",
+      "note": ""
+    },
+    {
+      "zh": "额定交流工频耐受电压试验",
+      "en": "rated AC power frequency withstand voltage testing",
+      "note": ""
+    },
+    {
+      "zh": "油枕",
+      "en": "liquid/oil conservator",
+      "note": ""
+    },
+    {
+      "zh": "油位",
+      "en": "oil level",
+      "note": ""
+    },
+    {
+      "zh": "防爆盖",
+      "en": "rupture disk",
+      "note": ""
+    },
+    {
+      "zh": "压力释放阀",
+      "en": "pressure relief valve",
+      "note": ""
+    },
+    {
+      "zh": "笼型",
+      "en": "cage type",
+      "note": ""
+    },
+    {
+      "zh": "鼓型",
+      "en": "drum type",
+      "note": ""
+    },
+    {
+      "zh": "条形",
+      "en": "Linear type",
+      "note": ""
+    },
+    {
+      "zh": "盘形",
+      "en": "disc type",
+      "note": ""
+    },
+    {
+      "zh": "粉末冶金",
+      "en": "PM (powder metallurgy)",
+      "note": ""
+    },
+    {
+      "zh": "减速齿轮箱",
+      "en": "ratio reduction gearbox",
+      "note": ""
+    },
+    {
+      "zh": "档位观察窗",
+      "en": "position display window",
+      "note": ""
+    },
+    {
+      "zh": "数控机床",
+      "en": "CNC (computer numerical control)",
+      "note": ""
+    },
+    {
+      "zh": "环氧树脂玻璃纤维",
+      "en": "epoxy fiberglass",
+      "note": ""
+    },
+    {
+      "zh": "回油管",
+      "en": "oil return pipe",
+      "note": ""
+    },
+    {
+      "zh": "抽油管",
+      "en": "oil suction pipe",
+      "note": ""
+    },
+    {
+      "zh": "绝缘转轴",
+      "en": "insulation main shaft",
+      "note": ""
+    },
+    {
+      "zh": "快速机构/储能机构",
+      "en": "(spring)energy accumulator",
+      "note": ""
+    },
+    {
+      "zh": "弧形板",
+      "en": "contact shell",
+      "note": ""
+    },
+    {
+      "zh": "动触头系统",
+      "en": "moving contact structure",
+      "note": ""
+    },
+    {
+      "zh": "铜线",
+      "en": "copper leads",
+      "note": ""
+    },
+    {
+      "zh": "均压片",
+      "en": "corona plate",
+      "note": ""
+    },
+    {
+      "zh": "均压环",
+      "en": "corona ring",
+      "note": ""
+    },
+    {
+      "zh": "屏蔽帽",
+      "en": "screen cap/stress cap corona cap",
+      "note": ""
+    },
+    {
+      "zh": "软连接",
+      "en": "flexible lead",
+      "note": ""
+    },
+    {
+      "zh": "编织线",
+      "en": "braided leads",
+      "note": ""
+    },
+    {
+      "zh": "压板",
+      "en": "counter piece",
+      "note": ""
+    },
+    {
+      "zh": "隔弧板",
+      "en": "arcing chute",
+      "note": ""
+    },
+    {
+      "zh": "色谱分析",
+      "en": "DGA disolved gas analysis",
+      "note": ""
+    },
+    {
+      "zh": "万向节",
+      "en": "cardan joint",
+      "note": ""
+    },
+    {
+      "zh": "中间支撑盒",
+      "en": "intermediate support",
+      "note": ""
+    },
+    {
+      "zh": "碳化",
+      "en": "carbonization",
+      "note": ""
+    },
+    {
+      "zh": "局部放电",
+      "en": "PD partial discharge",
+      "note": ""
+    },
+    {
+      "zh": "电机回路",
+      "en": "motor circuit/main circuit",
+      "note": ""
+    },
+    {
+      "zh": "手摇柄",
+      "en": "hand crank",
+      "note": ""
+    },
+    {
+      "zh": "电气寿命",
+      "en": "electrical life",
+      "note": ""
+    },
+    {
+      "zh": "排气塞",
+      "en": "gas discharge plug",
+      "note": ""
+    },
+    {
+      "zh": "放油螺钉",
+      "en": "oil discharge screw",
+      "note": ""
+    },
+    {
+      "zh": "薄弱环节",
+      "en": "shear pin",
+      "note": ""
+    },
+    {
+      "zh": "头盖",
+      "en": "head cover",
+      "note": ""
+    },
+    {
+      "zh": "溢油排气阀",
+      "en": "oil discharge valve",
+      "note": ""
+    },
+    {
+      "zh": "击穿电压",
+      "en": "breakdown voltage",
+      "note": ""
+    },
+    {
+      "zh": "触头磨损",
+      "en": "contact wear",
+      "note": ""
+    },
+    {
+      "zh": "除水滤芯",
+      "en": "water filter core",
+      "note": ""
+    },
+    {
+      "zh": "除杂滤芯",
+      "en": "imurity filter core",
+      "note": ""
+    },
+    {
+      "zh": "控制箱",
+      "en": "control cabinet",
+      "note": ""
+    },
+    {
+      "zh": "进油口法兰",
+      "en": "oil inlet flange",
+      "note": ""
+    },
+    {
+      "zh": "出油口法兰",
+      "en": "oil outlet flange",
+      "note": ""
+    },
+    {
+      "zh": "集成板/集成电路",
+      "en": "integrated circuit(PCB board)",
+      "note": ""
+    },
+    {
+      "zh": "壁挂式",
+      "en": "wall mounting type",
+      "note": ""
+    },
+    {
+      "zh": "落地式",
+      "en": "pad mounting type",
+      "note": ""
+    },
+    {
+      "zh": "机械寿命试验",
+      "en": "mechanical endurance test",
+      "note": ""
+    },
+    {
+      "zh": "工作负载试验",
+      "en": "service duty test",
+      "note": ""
+    },
+    {
+      "zh": "烧结测试",
+      "en": "sintering process",
+      "note": ""
+    },
+    {
+      "zh": "电感器",
+      "en": "inductor",
+      "note": ""
+    },
+    {
+      "zh": "异步电动机",
+      "en": "induction/asynchronous motor",
+      "note": ""
+    },
+    {
+      "zh": "功率因数",
+      "en": "power factor",
+      "note": ""
+    },
+    {
+      "zh": "扭矩/扭力",
+      "en": "torque",
+      "note": ""
+    },
+    {
+      "zh": "过载",
+      "en": "overload",
+      "note": ""
+    },
+    {
+      "zh": "对周围介质的温升",
+      "en": "the temperature rise above the surrouding liquid",
+      "note": ""
+    },
+    {
+      "zh": "开断容量试验",
+      "en": "breaking capacity test",
+      "note": ""
+    },
+    {
+      "zh": "浪涌电流",
+      "en": "inrush current/ surge current",
+      "note": ""
+    },
+    {
+      "zh": "示波图",
+      "en": "oscillogram",
+      "note": ""
+    },
+    {
+      "zh": "粘性",
+      "en": "viscosity",
+      "note": ""
+    },
+    {
+      "zh": "流体静压力",
+      "en": "static pressure",
+      "note": ""
+    },
+    {
+      "zh": "套管",
+      "en": "bushing",
+      "note": ""
+    },
+    {
+      "zh": "油中溶解气体分析法",
+      "en": "DGA (dissolved and free gases analysis)",
+      "note": ""
+    },
+    {
+      "zh": "截波冲击试验",
+      "en": "chopped wave lightening impulse (LIC)",
+      "note": ""
+    },
+    {
+      "zh": "全波雷电冲击试验",
+      "en": "full wave lightening impulse test (LI)",
+      "note": ""
+    },
+    {
+      "zh": "带电部分",
+      "en": "live parts",
+      "note": ""
+    },
+    {
+      "zh": "外施耐压试验",
+      "en": "applied voltage test",
+      "note": ""
+    },
+    {
+      "zh": "正负极",
+      "en": "positive/negative polarity",
+      "note": ""
+    },
+    {
+      "zh": "切换脉冲试验",
+      "en": "switching impulse test (SI)",
+      "note": ""
+    },
+    {
+      "zh": "视在电荷",
+      "en": "apparent charge (pC)",
+      "note": ""
+    },
+    {
+      "zh": "瞬时过电压",
+      "en": "transient overvoltage",
+      "note": ""
+    },
+    {
+      "zh": "整流变压器",
+      "en": "rectification transformer",
+      "note": ""
+    },
+    {
+      "zh": "分接变化指示",
+      "en": "tap-change in progress indication",
+      "note": ""
+    },
+    {
+      "zh": "过电流闭锁装置",
+      "en": "overcurrent blocking device",
+      "note": ""
+    },
+    {
+      "zh": "电动机构箱",
+      "en": "motor drive cubicle",
+      "note": ""
+    },
+    {
+      "zh": "机座",
+      "en": "frame",
+      "note": ""
+    },
+    {
+      "zh": "热电偶",
+      "en": "thermocouple",
+      "note": ""
+    },
+    {
+      "zh": "裸铜",
+      "en": "plain copper",
+      "note": ""
+    },
+    {
+      "zh": "表面镀银的铜/合金",
+      "en": "Silver-plated copper/alloys",
+      "note": ""
+    },
+    {
+      "zh": "电压崩溃",
+      "en": "voltage collapse",
+      "note": ""
+    },
+    {
+      "zh": "不受天气影响的",
+      "en": "weatherproof",
+      "note": ""
+    },
+    {
+      "zh": "警示标志",
+      "en": "warning label",
+      "note": ""
+    },
+    {
+      "zh": "主绝缘",
+      "en": "main insulation",
+      "note": ""
+    },
+    {
+      "zh": "模块化",
+      "en": "modular",
+      "note": ""
+    },
+    {
+      "zh": "电气信号",
+      "en": "electrical signal",
+      "note": ""
+    },
+    {
+      "zh": "电磁式计数器",
+      "en": "electromagnetic counter",
+      "note": ""
+    },
+    {
+      "zh": "航空插座",
+      "en": "aviation socket",
+      "note": ""
+    },
+    {
+      "zh": "抽头绕组",
+      "en": "tap winding",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "set position",
+      "note": ""
+    },
+    {
+      "zh": "阻尼",
+      "en": "damper",
+      "note": ""
+    },
+    {
+      "zh": "矿物油",
+      "en": "mineral oil",
+      "note": ""
+    },
+    {
+      "zh": "静触头",
+      "en": "fixed contact",
+      "note": ""
+    },
+    {
+      "zh": "动触头",
+      "en": "moving contact",
+      "note": ""
+    },
+    {
+      "zh": "通断触头",
+      "en": "switching contact",
+      "note": ""
+    },
+    {
+      "zh": "串联",
+      "en": "be connected in series with",
+      "note": ""
+    },
+    {
+      "zh": "并联",
+      "en": "be connected in parallel with",
+      "note": ""
+    },
+    {
+      "zh": "手动操作",
+      "en": "manual operation",
+      "note": ""
+    },
+    {
+      "zh": "紧急脱扣装置",
+      "en": "emergency tripping device",
+      "note": ""
+    },
+    {
+      "zh": "防止越级的保护装置",
+      "en": "over-riding protection",
+      "note": ""
+    },
+    {
+      "zh": "液位计",
+      "en": "liquid level gauges",
+      "note": ""
+    },
+    {
+      "zh": "气体继电器",
+      "en": "buchholz relay/gas relay/protective relay",
+      "note": ""
+    },
+    {
+      "zh": "油流继电器",
+      "en": "oil flow relay/oil surge relay",
+      "note": ""
+    },
+    {
+      "zh": "漏电感",
+      "en": "leakage inductance",
+      "note": ""
+    },
+    {
+      "zh": "铜焊",
+      "en": "brazed",
+      "note": ""
+    },
+    {
+      "zh": "滚动式触头",
+      "en": "rolling",
+      "note": ""
+    },
+    {
+      "zh": "夹片式触头",
+      "en": "clamping",
+      "note": ""
+    },
+    {
+      "zh": "电流输出触头",
+      "en": "current led-out/take-off contact",
+      "note": ""
+    },
+    {
+      "zh": "集电环",
+      "en": "current take-off ring",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "set position",
+      "note": ""
+    },
+    {
+      "zh": "指示位置",
+      "en": "display position",
+      "note": ""
+    },
+    {
+      "zh": "装机容量",
+      "en": "installed capacity",
+      "note": ""
+    },
+    {
+      "zh": "检修手册",
+      "en": "inspection manual",
+      "note": ""
+    },
+    {
+      "zh": "流出端子",
+      "en": "current led-out/take-off terminal",
+      "note": ""
+    },
+    {
+      "zh": "止回阀",
+      "en": "check valve",
+      "note": ""
+    },
+    {
+      "zh": "火花间隙",
+      "en": "spark gap",
+      "note": ""
+    },
+    {
+      "zh": "开断电流",
+      "en": "break and make the load/current",
+      "note": ""
+    },
+    {
+      "zh": "循环电流",
+      "en": "circuilating current",
+      "note": ""
+    },
+    {
+      "zh": "过渡阻抗",
+      "en": "transition impedance",
+      "note": ""
+    },
+    {
+      "zh": "励磁绕组",
+      "en": "excitation winding",
+      "note": ""
+    },
+    {
+      "zh": "磁路",
+      "en": "magnetic circuit",
+      "note": ""
+    },
+    {
+      "zh": "预计开断电流",
+      "en": "prospective current",
+      "note": ""
+    },
+    {
+      "zh": "步进控制",
+      "en": "step-by-step control",
+      "note": ""
+    },
+    {
+      "zh": "限位开关",
+      "en": "limit switches",
+      "note": ""
+    },
+    {
+      "zh": "隔离触头",
+      "en": "isolated contacts",
+      "note": ""
+    },
+    {
+      "zh": "油流",
+      "en": "liquid flow",
+      "note": ""
+    },
+    {
+      "zh": "（压力释放阀）自我封闭膜",
+      "en": "self-sealing diaphragm",
+      "note": ""
+    },
+    {
+      "zh": "触头分离",
+      "en": "contact separation",
+      "note": ""
+    },
+    {
+      "zh": "电容耦合",
+      "en": "capacitive coupling",
+      "note": ""
+    },
+    {
+      "zh": "漏电感",
+      "en": "Leakage inductance",
+      "note": ""
+    },
+    {
+      "zh": "触头磨损",
+      "en": "contact wear",
+      "note": ""
+    },
+    {
+      "zh": "切换电流",
+      "en": "switched current",
+      "note": ""
+    },
+    {
+      "zh": "触头磨损",
+      "en": "contact wear",
+      "note": ""
+    },
+    {
+      "zh": "拉弧时间",
+      "en": "arcing time",
+      "note": ""
+    },
+    {
+      "zh": "综合试验电路",
+      "en": "Synthetic test circuit",
+      "note": ""
+    },
+    {
+      "zh": "消散在电弧中的电荷",
+      "en": "The charges dissipated in the arcs",
+      "note": ""
+    },
+    {
+      "zh": "极性",
+      "en": "polarity",
+      "note": ""
+    },
+    {
+      "zh": "闭合/开断",
+      "en": "make/break",
+      "note": ""
+    },
+    {
+      "zh": "拉弧前",
+      "en": "Pre-arc",
+      "note": ""
+    },
+    {
+      "zh": "闭合电压",
+      "en": "closed circuit voltage",
+      "note": ""
+    },
+    {
+      "zh": "死点",
+      "en": "dead positions",
+      "note": ""
+    },
+    {
+      "zh": "载流方向",
+      "en": "load direction",
+      "note": ""
+    },
+    {
+      "zh": "空转",
+      "en": "run without load",
+      "note": ""
+    },
+    {
+      "zh": "拨槽件",
+      "en": "Genevawheel driving piece",
+      "note": ""
+    },
+    {
+      "zh": "锁片",
+      "en": "locking tab",
+      "note": ""
+    },
+    {
+      "zh": "操作电压",
+      "en": "operating voltage",
+      "note": ""
+    },
+    {
+      "zh": "软连接",
+      "en": "braided contact lead",
+      "note": ""
+    },
+    {
+      "zh": "隔弧板",
+      "en": "arcing chute",
+      "note": ""
+    },
+    {
+      "zh": "吊装带",
+      "en": "lift sling",
+      "note": ""
+    },
+    {
+      "zh": "升高座",
+      "en": "elevated flange",
+      "note": ""
+    },
+    {
+      "zh": "接地螺栓",
+      "en": "Earth stud",
+      "note": ""
+    },
+    {
+      "zh": "油位计",
+      "en": "Oil level gauge",
+      "note": ""
+    },
+    {
+      "zh": "起吊环",
+      "en": "Lifting ring",
+      "note": ""
+    },
+    {
+      "zh": "槽轮/日内瓦轮",
+      "en": "Geneva wheel",
+      "note": ""
+    },
+    {
+      "zh": "隔板",
+      "en": "Barrier",
+      "note": ""
+    },
+    {
+      "zh": "空气开关",
+      "en": "Miniature circuit breaker",
+      "note": ""
+    },
+    {
+      "zh": "有载分接开关",
+      "en": "On-Load Tap-Changer (OLTC)",
+      "note": ""
+    },
+    {
+      "zh": "变压器油",
+      "en": "transformer oil",
+      "note": ""
+    },
+    {
+      "zh": "密封圈",
+      "en": "sealing ring",
+      "note": ""
+    },
+    {
+      "zh": "保护继电器",
+      "en": "protective relay",
+      "note": ""
+    },
+    {
+      "zh": "电动机构",
+      "en": "Motor Drive Unit (MDU)",
+      "note": ""
+    },
+    {
+      "zh": "钟罩式变压器",
+      "en": "bell-type transformer",
+      "note": ""
+    },
+    {
+      "zh": "钟罩式变压器箱盖",
+      "en": "bell tank cover",
+      "note": ""
+    },
+    {
+      "zh": "油室",
+      "en": "oil compartment",
+      "note": ""
+    },
+    {
+      "zh": "屏蔽罩",
+      "en": "shield",
+      "note": ""
+    },
+    {
+      "zh": "调压绕组",
+      "en": "transformer regulating winding",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "set position",
+      "note": ""
+    },
+    {
+      "zh": "伞齿轮盒",
+      "en": "bevel gearbox",
+      "note": ""
+    },
+    {
+      "zh": "压力释放装置",
+      "en": "pressure relief device",
+      "note": ""
+    },
+    {
+      "zh": "定位板",
+      "en": "locating plate",
+      "note": ""
+    },
+    {
+      "zh": "联轴器/联轴节",
+      "en": "coupling",
+      "note": ""
+    },
+    {
+      "zh": "凸块",
+      "en": "protruding tab",
+      "note": ""
+    },
+    {
+      "zh": "调整垫块",
+      "en": "temporary shim",
+      "note": ""
+    },
+    {
+      "zh": "爆破盖",
+      "en": "rupture disk",
+      "note": ""
+    },
+    {
+      "zh": "弯油管",
+      "en": "pipe connection",
+      "note": ""
+    },
+    {
+      "zh": "顶盖",
+      "en": "top cover",
+      "note": ""
+    },
+    {
+      "zh": "驱动机构",
+      "en": "drive unit",
+      "note": ""
+    },
+    {
+      "zh": "圆柱销",
+      "en": "cylindrical pin",
+      "note": ""
+    },
+    {
+      "zh": "衬套",
+      "en": "bushing",
+      "note": ""
+    },
+    {
+      "zh": "卡箍",
+      "en": "clamp",
+      "note": ""
+    },
+    {
+      "zh": "垂直防护罩",
+      "en": "vertical guard",
+      "note": ""
+    },
+    {
+      "zh": "水平防护罩",
+      "en": "horizontal guard",
+      "note": ""
+    },
+    {
+      "zh": "锁片",
+      "en": "lock washer",
+      "note": ""
+    },
+    {
+      "zh": "齿轮盒座（变压器）",
+      "en": "gearbox bracket (transformer)",
+      "note": ""
+    },
+    {
+      "zh": "储油柜",
+      "en": "conservator",
+      "note": ""
+    },
+    {
+      "zh": "压板",
+      "en": "clamping plate",
+      "note": ""
+    },
+    {
+      "zh": "出轴",
+      "en": "output shaft",
+      "note": ""
+    },
+    {
+      "zh": "旁通管",
+      "en": "bypass pipe",
+      "note": ""
+    },
+    {
+      "zh": "阀杆",
+      "en": "valve stem",
+      "note": ""
+    },
+    {
+      "zh": "放气阀",
+      "en": "bleeder valve",
+      "note": ""
+    },
+    {
+      "zh": "真空灭弧室",
+      "en": "vacuum interrupter chamber",
+      "note": ""
+    },
+    {
+      "zh": "螺钉",
+      "en": "screw",
+      "note": ""
+    },
+    {
+      "zh": "螺柱",
+      "en": "stud",
+      "note": ""
+    },
+    {
+      "zh": "螺栓",
+      "en": "bolt",
+      "note": ""
+    },
+    {
+      "zh": "过电流自闭接点",
+      "en": "overcurrent self-resetting contact",
+      "note": ""
+    },
+    {
+      "zh": "转圈",
+      "en": "rotation",
+      "note": ""
+    },
+    {
+      "zh": "触点",
+      "en": "contact",
+      "note": ""
+    },
+    {
+      "zh": "方齿轮盒/伞齿轮盒",
+      "en": "Bevel gearbox",
+      "note": ""
+    },
+    {
+      "zh": "传动轴",
+      "en": "Driving shaft",
+      "note": ""
+    },
+    {
+      "zh": "均压环",
+      "en": "corona ring",
+      "note": ""
+    },
+    {
+      "zh": "切换开关",
+      "en": "Diverter switch",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器",
+      "en": "Tap selector",
+      "note": ""
+    },
+    {
+      "zh": "中性点集电环/引出环",
+      "en": "Current take off ring",
+      "note": ""
+    },
+    {
+      "zh": "中性点引出排",
+      "en": "Current take off terminal",
+      "note": ""
+    },
+    {
+      "zh": "中性点端子",
+      "en": "Neutral point terminal",
+      "note": ""
+    },
+    {
+      "zh": "电流输出端子",
+      "en": "Current take-off terminal",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器上层触头",
+      "en": "Upper contacts of tap selector",
+      "note": ""
+    },
+    {
+      "zh": "圆齿轮盒/扁齿轮盒/减速齿轮盒/传动齿轮盒",
+      "en": "Top gearbox",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器下层触头",
+      "en": "Lower contacts of tap selector",
+      "note": ""
+    },
+    {
+      "zh": "分接开关位置数",
+      "en": "Operation position number",
+      "note": ""
+    },
+    {
+      "zh": "不同电压数",
+      "en": "Different voltage number",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "Set position",
+      "note": ""
+    },
+    {
+      "zh": "选择开关位置",
+      "en": "Changer-over selector position",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器触头位置",
+      "en": "Tap selector contact position",
+      "note": ""
+    },
+    {
+      "zh": "分接指示位置",
+      "en": "Display position",
+      "note": ""
+    },
+    {
+      "zh": "头部安装法兰",
+      "en": "Mounting flange",
+      "note": ""
+    },
+    {
+      "zh": "支撑法兰",
+      "en": "Support flange",
+      "note": ""
+    },
+    {
+      "zh": "R：保护继电器连接弯管",
+      "en": "R: Pipe connection for protective relay",
+      "note": ""
+    },
+    {
+      "zh": "S：抽油连接弯管",
+      "en": "S: Pipe connection for suction pipe",
+      "note": ""
+    },
+    {
+      "zh": "Q：回油连接弯管",
+      "en": "Q: Pipe connection for oil return",
+      "note": ""
+    },
+    {
+      "zh": "E2：变压器油箱放气口",
+      "en": "E2: Bleeding of transformer tank",
+      "note": ""
+    },
+    {
+      "zh": "防爆盖",
+      "en": "Rupture disk",
+      "note": ""
+    },
+    {
+      "zh": "电位电阻",
+      "en": "Tie-in resistor",
+      "note": ""
+    },
+    {
+      "zh": "带电外限",
+      "en": "Max. Size of live part",
+      "note": ""
+    },
+    {
+      "zh": "注：所有弯油管和齿轮盒均可360°旋转。",
+      "en": "Note：all oil pipe and gearbox can be rotated by 360°.",
+      "note": ""
+    },
+    {
+      "zh": "P向/D 向",
+      "en": "P view/D view",
+      "note": ""
+    },
+    {
+      "zh": "转换选择器端子",
+      "en": "Change-over selector terminal",
+      "note": ""
+    },
+    {
+      "zh": "选择开关端子",
+      "en": "Selector switch terminal",
+      "note": ""
+    },
+    {
+      "zh": "引出触头端子",
+      "en": "Current take-off terminal",
+      "note": ""
+    },
+    {
+      "zh": "E1- 开关油室放气阀.",
+      "en": "E1: Bleeding of on-load tap changer",
+      "note": ""
+    },
+    {
+      "zh": "E2- 变压器油箱放气口",
+      "en": "E2: Bleeding of transformer tank",
+      "note": ""
+    },
+    {
+      "zh": "R - 保护继电器接头",
+      "en": "Pipe connection R",
+      "note": ""
+    },
+    {
+      "zh": "S - 抽油管接头",
+      "en": "Pipe connection S",
+      "note": ""
+    },
+    {
+      "zh": "Q - 注油管接头",
+      "en": "Pipe connection Q",
+      "note": ""
+    },
+    {
+      "zh": "W - 扁齿轮盒/减速齿轮盒",
+      "en": "W: Top gearbox",
+      "note": ""
+    },
+    {
+      "zh": "带槽",
+      "en": "with groove",
+      "note": ""
+    },
+    {
+      "zh": "连接法兰",
+      "en": "Connecting flange",
+      "note": ""
+    },
+    {
+      "zh": "工作位置数",
+      "en": "Operation position number",
+      "note": ""
+    },
+    {
+      "zh": "调压级数",
+      "en": "Different voltage number",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "Set position",
+      "note": ""
+    },
+    {
+      "zh": "选择开关位置",
+      "en": "Selector switch position",
+      "note": ""
+    },
+    {
+      "zh": "指示位置",
+      "en": "Display position",
+      "note": ""
+    },
+    {
+      "zh": "产品型号",
+      "en": "Product model",
+      "note": ""
+    },
+    {
+      "zh": "装配图",
+      "en": "Assembly drawing",
+      "note": ""
+    },
+    {
+      "zh": "图样标记",
+      "en": "Mark pattern",
+      "note": ""
+    },
+    {
+      "zh": "重量",
+      "en": "Weight",
+      "note": ""
+    },
+    {
+      "zh": "比例",
+      "en": "Scale",
+      "note": ""
+    },
+    {
+      "zh": "共  页",
+      "en": "(  ) pages in total",
+      "note": ""
+    },
+    {
+      "zh": "第  页",
+      "en": "Page NO. (  )",
+      "note": ""
+    },
+    {
+      "zh": "标记",
+      "en": "Mark pattern",
+      "note": ""
+    },
+    {
+      "zh": "处数",
+      "en": "Place several",
+      "note": ""
+    },
+    {
+      "zh": "更改文件号",
+      "en": "Changes file number",
+      "note": ""
+    },
+    {
+      "zh": "签字",
+      "en": "Signature",
+      "note": ""
+    },
+    {
+      "zh": "日期",
+      "en": "Date",
+      "note": ""
+    },
+    {
+      "zh": "设计",
+      "en": "Design",
+      "note": ""
+    },
+    {
+      "zh": "校对",
+      "en": "Proofreading",
+      "note": ""
+    },
+    {
+      "zh": "审核",
+      "en": "Audit",
+      "note": ""
+    },
+    {
+      "zh": "工艺",
+      "en": "process",
+      "note": ""
+    },
+    {
+      "zh": "标准化",
+      "en": "Standard",
+      "note": ""
+    },
+    {
+      "zh": "审定",
+      "en": "Approve",
+      "note": ""
+    },
+    {
+      "zh": "分接开关头部",
+      "en": "OLTC head",
+      "note": ""
+    },
+    {
+      "zh": "保护继电器",
+      "en": "Protective relay",
+      "note": ""
+    },
+    {
+      "zh": "切换开关",
+      "en": "diverter switch",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器",
+      "en": "tap selector",
+      "note": ""
+    },
+    {
+      "zh": "均压环",
+      "en": "Grading ring",
+      "note": ""
+    },
+    {
+      "zh": "电流引出端子",
+      "en": "Current take-off terminal",
+      "note": ""
+    },
+    {
+      "zh": "等电位连线",
+      "en": "potential connection",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器上触头平面层",
+      "en": "Upper contacts of tap selector",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器下触头平面层",
+      "en": "Lower contacts of tap selector",
+      "note": ""
+    },
+    {
+      "zh": "转换选择器",
+      "en": "Change-over selector",
+      "note": ""
+    },
+    {
+      "zh": "分接开关位置数",
+      "en": "Operation position number",
+      "note": ""
+    },
+    {
+      "zh": "不同电压数",
+      "en": "Different voltage number",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "Set position",
+      "note": ""
+    },
+    {
+      "zh": "转换选择器位置",
+      "en": "Change-over selector position",
+      "note": ""
+    },
+    {
+      "zh": "分接开关位置",
+      "en": "Tap changer position",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器触头位置",
+      "en": "Tap selector contact position",
+      "note": ""
+    },
+    {
+      "zh": "指示位置",
+      "en": "Display position",
+      "note": ""
+    },
+    {
+      "zh": "E1:开关油箱放气阀",
+      "en": "E1: Bleeding of on-load tap changer",
+      "note": ""
+    },
+    {
+      "zh": "E2:变压器油箱放气口",
+      "en": "E2: Bleeding of transformer tank",
+      "note": ""
+    },
+    {
+      "zh": "R:保护继电器连接弯管",
+      "en": "R: Pipe connection for protective relay",
+      "note": ""
+    },
+    {
+      "zh": "S:抽油连接弯管",
+      "en": "S: Pipe connection for suction pipe",
+      "note": ""
+    },
+    {
+      "zh": "Q:回油连接弯管",
+      "en": "Q: Pipe connection for oil return",
+      "note": ""
+    },
+    {
+      "zh": "连接法兰",
+      "en": "Connecting flange",
+      "note": ""
+    },
+    {
+      "zh": "观察窗",
+      "en": "Inspection window",
+      "note": ""
+    },
+    {
+      "zh": "旋转角度",
+      "en": "Swiveling angle",
+      "note": ""
+    },
+    {
+      "zh": "驱动侧",
+      "en": "Drive side of tap selector",
+      "note": ""
+    },
+    {
+      "zh": "变压器绕组",
+      "en": "Transformer winding",
+      "note": ""
+    },
+    {
+      "zh": "安装板",
+      "en": "Mounting plate",
+      "note": ""
+    },
+    {
+      "zh": "箱门",
+      "en": "Enclosure door",
+      "note": ""
+    },
+    {
+      "zh": "注意事项",
+      "en": "Caution label",
+      "note": ""
+    },
+    {
+      "zh": "指示区域观察窗",
+      "en": "Viewing window for indication area",
+      "note": ""
+    },
+    {
+      "zh": "吊耳",
+      "en": "Lifting lugs",
+      "note": ""
+    },
+    {
+      "zh": "输出轴",
+      "en": "Output shaft",
+      "note": ""
+    },
+    {
+      "zh": "机械传动机构护板",
+      "en": "Drive mechanism cover",
+      "note": ""
+    },
+    {
+      "zh": "铭牌",
+      "en": "Nameplate",
+      "note": ""
+    },
+    {
+      "zh": "指示区域",
+      "en": "Indication area",
+      "note": ""
+    },
+    {
+      "zh": "手摇把",
+      "en": "Hand crank",
+      "note": ""
+    },
+    {
+      "zh": "警示标识",
+      "en": "Warning label",
+      "note": ""
+    },
+    {
+      "zh": "带手摇把联锁开关的手摇把开孔",
+      "en": "Hand-crank access port with interlock switch",
+      "note": ""
+    },
+    {
+      "zh": "就地控制开关",
+      "en": "Local control switch",
+      "note": ""
+    },
+    {
+      "zh": "手提灯",
+      "en": "Portable lamp",
+      "note": ""
+    },
+    {
+      "zh": "箱门锁扣",
+      "en": "Door latch",
+      "note": ""
+    },
+    {
+      "zh": "控制选择开关",
+      "en": "Control selector switch",
+      "note": ""
+    },
+    {
+      "zh": "电气控制元件",
+      "en": "Electrical control components",
+      "note": ""
+    },
+    {
+      "zh": "文件袋",
+      "en": "Document pocket",
+      "note": ""
+    },
+    {
+      "zh": "控制器",
+      "en": "Controller",
+      "note": ""
+    },
+    {
+      "zh": "紧固螺栓",
+      "en": "Fastening bolt",
+      "note": ""
+    },
+    {
+      "zh": "校准",
+      "en": "Calibrate",
+      "note": ""
+    },
+    {
+      "zh": "分接位置指示器",
+      "en": "Tap position indicator",
+      "note": ""
+    },
+    {
+      "zh": "运行指示器",
+      "en": "Operation indicator",
+      "note": ""
+    },
+    {
+      "zh": "计数器",
+      "en": "Counter",
+      "note": ""
+    },
+    {
+      "zh": "整定位置",
+      "en": "Set position",
+      "note": ""
+    },
+    {
+      "zh": "逐级控制",
+      "en": "Step-by-step control",
+      "note": ""
+    },
+    {
+      "zh": "机械限位装置",
+      "en": "Mechanical limit device",
+      "note": ""
+    },
+    {
+      "zh": "电气限位开关",
+      "en": "Electrical limit switch",
+      "note": ""
+    },
+    {
+      "zh": "极限位置",
+      "en": "Limit position",
+      "note": ""
+    },
+    {
+      "zh": "绝缘等级",
+      "en": "insulation class",
+      "note": ""
+    },
+    {
+      "zh": "档位显示牌",
+      "en": "position indicator dial",
+      "note": ""
+    },
+    {
+      "zh": "开口锁片",
+      "en": "open-type lock washer",
+      "note": ""
+    },
+    {
+      "zh": "定位销钉",
+      "en": "locating pin",
+      "note": ""
+    },
+    {
+      "zh": "箱顶式变压器",
+      "en": "top-mounted transformer (standard transformer)",
+      "note": ""
+    },
+    {
+      "zh": "法兰环",
+      "en": "flange ring",
+      "note": ""
+    },
+    {
+      "zh": "工作档位",
+      "en": "operating position",
+      "note": ""
+    },
+    {
+      "zh": "真空灭弧型分接开关",
+      "en": "vacuum interrupter tap changer",
+      "note": ""
+    },
+    {
+      "zh": "突发压力继电器",
+      "en": "Rapid pressure rise relay",
+      "note": ""
+    },
+    {
+      "zh": "中间支撑盒",
+      "en": "intermediate gear box",
+      "note": ""
+    },
+    {
+      "zh": "客户接线",
+      "en": "To be connected by customer",
+      "note": ""
+    },
+    {
+      "zh": "放大图",
+      "en": "Magnified figure",
+      "note": ""
+    },
+    {
+      "zh": "齿轮盒出轴",
+      "en": "Gearbox shaft",
+      "note": ""
+    },
+    {
+      "zh": "带槽",
+      "en": "with groove",
+      "note": ""
+    },
+    {
+      "zh": "槽深",
+      "en": "Groove depth",
+      "note": ""
+    },
+    {
+      "zh": "接线图",
+      "en": "Connection diagram",
+      "note": ""
+    },
+    {
+      "zh": "带电外限",
+      "en": "Live part",
+      "note": ""
+    },
+    {
+      "zh": "板式电位电阻",
+      "en": "Board type Tie-in -ressistor",
+      "note": ""
+    },
+    {
+      "zh": "分接选择器底部与A等电位",
+      "en": "Tap selector bottom and      are equal potential",
+      "note": ""
+    },
+    {
+      "zh": "选择开关端子",
+      "en": "Selector switch terminal",
+      "note": ""
+    },
+    {
+      "zh": "注：弯油管加高100mm",
+      "en": "Note: Q, S, R pipes with extra 100mm",
+      "note": ""
+    },
+    {
+      "zh": "输出端0",
+      "en": "take-off terminal",
+      "note": ""
+    },
+    {
+      "zh": "起始角度",
+      "en": "Starting Angle",
+      "note": ""
+    },
+    {
+      "zh": "可活动范围",
+      "en": "Operating Range",
+      "note": ""
+    },
+    {
+      "zh": "布置图",
+      "en": "layout drawing",
+      "note": ""
+    },
+    {
+      "zh": "对地",
+      "en": "To ground",
+      "note": ""
+    },
+    {
+      "zh": "相间",
+      "en": "Between phase",
+      "note": ""
+    },
+    {
+      "zh": "触头间",
+      "en": "Between contact",
+      "note": ""
+    },
+    {
+      "zh": "最大最小间",
+      "en": "Between start and end of a tap",
+      "note": ""
+    },
+    {
+      "zh": "工频耐压",
+      "en": "AC",
+      "note": ""
+    },
+    {
+      "zh": "雷电冲击",
+      "en": "BIL",
+      "note": ""
+    },
+    {
+      "zh": "项目号",
+      "en": "Project No.",
+      "note": ""
+    },
+    {
+      "zh": "变压器编号",
+      "en": "Transformer s/n",
+      "note": ""
+    },
+    {
+      "zh": "开关编号",
+      "en": "Tap-changer s/n",
+      "note": ""
+    },
+    {
+      "zh": "开关合同号",
+      "en": "Contract No.",
+      "note": ""
+    }
+  ]
+}

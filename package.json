@@ -1,0 +1,15 @@
+{
+  "name": "dwg-converter-pro",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Chinese DWG → English DWG converter (glossary-first)",
+  "scripts": {
+    "dev": "npm run dev --prefix apps/web",
+    "build": "npm run build --prefix apps/web",
+    "start": "npm run start --prefix apps/web",
+    "lint": "npm run lint --prefix apps/web"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
