@@ -39,14 +39,18 @@ npm run dev
 
 Open http://localhost:3000
 
-### DWG vs DXF
+### DWG in / DWG out (product promise)
 
-| Format | Requirement |
-|--------|-------------|
-| **DXF** | Works out of the box (ezdxf) |
-| **DWG** | Needs [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter) installed; optional `ODA_FC_PATH` |
+**Users only upload and download `.dwg`.** No “please convert to DXF” in the UI.
 
-Without ODA, upload DXF (or convert DWG→DXF once with ODA/TrueView).
+Internally the Windows worker may use [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter) **silently** (DWG→edit→DWG). Install ODA once on the **worker machine** and optionally set `ODA_FC_PATH`.
+
+| What user sees | What worker does |
+|----------------|------------------|
+| Upload `.dwg` | Silent convert if needed |
+| Download `*-EN.dwg` | Silent export back to DWG |
+
+DXF is still accepted for testing without ODA.
 
 ## Tests
 

@@ -111,9 +111,9 @@ def process_one_file(
                     original_name=original_name,
                     ok=False,
                     error=(
-                        "DWG requires ODA File Converter. "
-                        "Install from https://www.opendesign.com/guestfiles/oda_file_converter "
-                        "or upload DXF. Set ODA_FC_PATH if installed elsewhere."
+                        "Server CAD engine is not ready for DWG yet "
+                        "(missing ODA File Converter on the worker machine). "
+                        "Please try again later — you do not need to convert the file yourself."
                     ),
                 )
             in_dir = work_dir / "oda_in"
@@ -135,7 +135,7 @@ def process_one_file(
                     return FileJobResult(
                         original_name=original_name,
                         ok=False,
-                        error="ODA did not produce a DXF. Check ODA install / DWG version.",
+                        error="Could not process this DWG (CAD engine failed). Try another version or contact support — no manual format conversion needed.",
                     )
                 dxfs = [cand]
             dxf_path = dxfs[0]
